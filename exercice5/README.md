@@ -47,7 +47,7 @@ Consignes :
 
   Exemple :
 
-  $("#monLien").attr("href", "https://www.uptofourmies.fr");
+ 
 
   Je modifie la valeur de la propriété href de l'élément ayant pour id "monLien"
 
